@@ -35,7 +35,7 @@ Core competencies: Clean Architecture · CQRS · SOLID · Design Patterns · Ora
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N05TR4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N05TR4&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=N05TR4&theme=tokyonight&hide_border=true" />
 </p>
 
 🔗 Connect with me

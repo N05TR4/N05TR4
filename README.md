@@ -21,9 +21,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,fastapi&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,nextjs,ts,react,vite,tailwind,html,css&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,docker,git,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,docker,git,azure,vscode,visualstudio&theme=dark" />
 </p>
 Core competencies: Clean Architecture · CQRS · SOLID · Design Patterns · Oracle PL/SQL · REST API Design · Django ORM & DRF
 
